@@ -3,8 +3,8 @@
  
 ## Demo
 
-[engUI](https://github.com/ethan-fong/Sheep-Link/blob/main/UI.png)
-[xhosaUI](https://github.com/ethan-fong/Sheep-Link/blob/main/XhosalUI.png)
+![engUI](https://github.com/ethan-fong/Sheep-Link/blob/main/UI.png)
+![xhosaUI](https://github.com/ethan-fong/Sheep-Link/blob/main/XhosalUI.png)
  
 ## Clustering Algorithm
  
